@@ -1,0 +1,14 @@
+D:\Study\OOP\lab1\task12\obj\Debug\net9.0\task12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\lab1\task12\obj\Debug\net9.0\task12.AssemblyInfoInputs.cache
+D:\Study\OOP\lab1\task12\obj\Debug\net9.0\task12.AssemblyInfo.cs
+D:\Study\OOP\lab1\task12\obj\Debug\net9.0\task12.csproj.CoreCompileInputs.cache
+D:\Study\OOP\lab1\task12\bin\Debug\net9.0\task12.exe
+D:\Study\OOP\lab1\task12\bin\Debug\net9.0\task12.deps.json
+D:\Study\OOP\lab1\task12\bin\Debug\net9.0\task12.runtimeconfig.json
+D:\Study\OOP\lab1\task12\bin\Debug\net9.0\task12.dll
+D:\Study\OOP\lab1\task12\bin\Debug\net9.0\task12.pdb
+D:\Study\OOP\lab1\task12\obj\Debug\net9.0\task12.dll
+D:\Study\OOP\lab1\task12\obj\Debug\net9.0\refint\task12.dll
+D:\Study\OOP\lab1\task12\obj\Debug\net9.0\task12.pdb
+D:\Study\OOP\lab1\task12\obj\Debug\net9.0\task12.genruntimeconfig.cache
+D:\Study\OOP\lab1\task12\obj\Debug\net9.0\ref\task12.dll

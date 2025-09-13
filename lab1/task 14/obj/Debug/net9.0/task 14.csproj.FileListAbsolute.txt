@@ -1,0 +1,14 @@
+D:\Study\OOP\lab1\task 14\bin\Debug\net9.0\task 14.exe
+D:\Study\OOP\lab1\task 14\bin\Debug\net9.0\task 14.deps.json
+D:\Study\OOP\lab1\task 14\bin\Debug\net9.0\task 14.runtimeconfig.json
+D:\Study\OOP\lab1\task 14\bin\Debug\net9.0\task 14.dll
+D:\Study\OOP\lab1\task 14\bin\Debug\net9.0\task 14.pdb
+D:\Study\OOP\lab1\task 14\obj\Debug\net9.0\task 14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\lab1\task 14\obj\Debug\net9.0\task 14.AssemblyInfoInputs.cache
+D:\Study\OOP\lab1\task 14\obj\Debug\net9.0\task 14.AssemblyInfo.cs
+D:\Study\OOP\lab1\task 14\obj\Debug\net9.0\task 14.csproj.CoreCompileInputs.cache
+D:\Study\OOP\lab1\task 14\obj\Debug\net9.0\task 14.dll
+D:\Study\OOP\lab1\task 14\obj\Debug\net9.0\refint\task 14.dll
+D:\Study\OOP\lab1\task 14\obj\Debug\net9.0\task 14.pdb
+D:\Study\OOP\lab1\task 14\obj\Debug\net9.0\task 14.genruntimeconfig.cache
+D:\Study\OOP\lab1\task 14\obj\Debug\net9.0\ref\task 14.dll
