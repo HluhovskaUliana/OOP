@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task1", "task1\task1.csproj", "{5F3D7DDD-FEA3-4E49-974F-AB3C01DC5143}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task2", "task2\task2.csproj", "{7B607BE0-7B8A-4179-9697-8E7581BBFF9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{5F3D7DDD-FEA3-4E49-974F-AB3C01DC5143}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F3D7DDD-FEA3-4E49-974F-AB3C01DC5143}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F3D7DDD-FEA3-4E49-974F-AB3C01DC5143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B607BE0-7B8A-4179-9697-8E7581BBFF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B607BE0-7B8A-4179-9697-8E7581BBFF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B607BE0-7B8A-4179-9697-8E7581BBFF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B607BE0-7B8A-4179-9697-8E7581BBFF9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
