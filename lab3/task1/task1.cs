@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Person
+class task1
 {
     private string name;
     private int age;
@@ -17,13 +17,13 @@ class Person
         set { age = value; }
     }
 
-    public Person()
+    public task1()
     {
         name = "Unknown";
         age = 0;
     }
 
-    public Person(string name, int age)
+    public task1(string name, int age)
     {
         this.name = name;
         this.age = age;
@@ -34,14 +34,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Person defaultPerson = new Person();
-        defaultPerson.Name = "Pesho";
-        defaultPerson.Age = 20;
+        task1 defaultTask1 = new task1();
+        defaultTask1.Name = "Pesho";
+        defaultTask1.Age = 20;
 
-        Person person1 = new Person("Gosho", 18);
-        Person person2 = new Person("Stamat", 43);
+        task1 person1 = new task1("Gosho", 18);
+        task1 person2 = new task1("Stamat", 43);
         
-        Console.WriteLine($"{defaultPerson.Name} {defaultPerson.Age}");
+        Console.WriteLine($"{defaultTask1.Name} {defaultTask1.Age}");
         Console.WriteLine($"{person1.Name} {person1.Age}");
         Console.WriteLine($"{person2.Name} {person2.Age}");
         Console.ReadKey();
