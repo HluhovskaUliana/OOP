@@ -1,54 +1,58 @@
 ﻿using System;
+using System.Collections.Generic; // для використання List<T> (черг стеків і тп.)
+using System.Linq; // підключення LINQ - мови запитів (фільтрація, сортування і тп.)
 
-class Person
+public class Person
 {
-    private string name;
-    private int age;
+    public string Name { get; set; } 
+    public int Age {get; set;} 
 
-    public string Name
-    {
-        get { return name; }
-        set { name = value; }
-    }
+    public Person() : this("no name", 1) { }
+    public Person(string name) : this(name, 1) { }
 
-    public int Age
+    public Person(string name, int age)
     {
-        get { return age; }
-        set { age = value; }
-    }
-
-    public Person() //task2
-    {
-        name = "no name";
-        age = 1;
-    }
-    public Person(int age)
-    {
-        name = "no name"; //task2
-        this.age = age;
-    }
-
-    public Person(string name, int age) //task2
-    {
-        this.name = name;
-        this.age = age;
+        Name = name;
+        Age = age;
     }
 }
+
+public class Family
+{
+    private List<Person> members = new List<Person>();
+
+    public void AddMember(Person member)
+    {
+        members.Add(member);
+    }
+    public Person GetOldestMember()
+    {
+        return members.OrderByDescending(p => p.Age).FirstOrDefault();
+    }
+}
+
+
 
 class Program
 {
     static void Main(string[] args)
     {
-        Person defaultTask1 = new Person();
-        defaultTask1.Name = "Pesho";
-        defaultTask1.Age = 20;
+        Console.WriteLine("Enter a number of members");
+        int num = int.Parse(Console.ReadLine());
+        Family family = new Family();
 
-        Person person1 = new Person("Gosho", 18);
-        Person person2 = new Person("Stamat", 43);
-        
-        Console.WriteLine($"{defaultTask1.Name} {defaultTask1.Age}");
-        Console.WriteLine($"{person1.Name} {person1.Age}");
-        Console.WriteLine($"{person2.Name} {person2.Age}");
+        for (int i = 0; i < num; i++)
+        {
+            string[] input = Console.ReadLine().Split(' ');
+            string name = input[0];
+            int age = int.Parse(input[1]);
+            
+            Person person = new Person(name, age);
+            family.AddMember(person);
+        }
+        Person oldestMember = family.GetOldestMember();
+        Console.WriteLine($"{oldestMember.Name} {oldestMember.Age}");
         Console.ReadKey();
+        
     }
 }
