@@ -30,17 +30,15 @@ public class Family
         return members.OrderByDescending(p => p.Age).FirstOrDefault();
     }
 }
-
-
-
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Enter a number of members");
+        Console.WriteLine("Enter a number of members: ");
         int num = int.Parse(Console.ReadLine());
         Family family = new Family();
 
+        Console.WriteLine("Enter information about family members: ");
         for (int i = 0; i < num; i++)
         {
             string[] input = Console.ReadLine().Split(' ');
@@ -51,7 +49,7 @@ class Program
             family.AddMember(person);
         }
         Person oldestMember = family.GetOldestMember();
-        Console.WriteLine($"{oldestMember.Name} {oldestMember.Age}");
+        Console.WriteLine($"Oldest member of family: {oldestMember.Name} {oldestMember.Age}");
         Console.ReadKey();
         
     }
