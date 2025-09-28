@@ -1,0 +1,15 @@
+D:\Study\OOP\lab3\task4\bin\Debug\net9.0\task4.exe
+D:\Study\OOP\lab3\task4\bin\Debug\net9.0\task4.deps.json
+D:\Study\OOP\lab3\task4\bin\Debug\net9.0\task4.runtimeconfig.json
+D:\Study\OOP\lab3\task4\bin\Debug\net9.0\task4.dll
+D:\Study\OOP\lab3\task4\bin\Debug\net9.0\task4.pdb
+D:\Study\OOP\lab3\task4\obj\Debug\net9.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\lab3\task4\obj\Debug\net9.0\task4.AssemblyInfoInputs.cache
+D:\Study\OOP\lab3\task4\obj\Debug\net9.0\task4.AssemblyInfo.cs
+D:\Study\OOP\lab3\task4\obj\Debug\net9.0\task4.csproj.CoreCompileInputs.cache
+D:\Study\OOP\lab3\task4\obj\Debug\net9.0\task4.sourcelink.json
+D:\Study\OOP\lab3\task4\obj\Debug\net9.0\task4.dll
+D:\Study\OOP\lab3\task4\obj\Debug\net9.0\refint\task4.dll
+D:\Study\OOP\lab3\task4\obj\Debug\net9.0\task4.pdb
+D:\Study\OOP\lab3\task4\obj\Debug\net9.0\task4.genruntimeconfig.cache
+D:\Study\OOP\lab3\task4\obj\Debug\net9.0\ref\task4.dll
