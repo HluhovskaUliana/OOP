@@ -25,8 +25,8 @@ class Rectangle
 
     public bool Contains(Point point)
     {
-        return point.X >= TopLeft && point.X <= BottomRight.X &&
-               point.Y >= TopLeft && point.Y <= BottomRight.Y;
+        return point.X >= TopLeft.X && point.X <= BottomRight.X &&
+               point.Y >= TopLeft.Y && point.Y <= BottomRight.Y;
     }
 }
 
