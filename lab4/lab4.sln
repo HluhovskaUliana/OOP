@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task1", "task1\task1.csproj", "{857BEAD7-ECFD-4E9A-A7BF-3539B8311A9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task2", "task2\task2.csproj", "{8EDF06C9-2F26-41B7-932B-96AA548FE98B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task3", "task3\task3.csproj", "{FAA863CA-D74B-4474-BF5C-DC76BE6FCADD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{857BEAD7-ECFD-4E9A-A7BF-3539B8311A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{857BEAD7-ECFD-4E9A-A7BF-3539B8311A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{857BEAD7-ECFD-4E9A-A7BF-3539B8311A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDF06C9-2F26-41B7-932B-96AA548FE98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDF06C9-2F26-41B7-932B-96AA548FE98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDF06C9-2F26-41B7-932B-96AA548FE98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDF06C9-2F26-41B7-932B-96AA548FE98B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA863CA-D74B-4474-BF5C-DC76BE6FCADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA863CA-D74B-4474-BF5C-DC76BE6FCADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA863CA-D74B-4474-BF5C-DC76BE6FCADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA863CA-D74B-4474-BF5C-DC76BE6FCADD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

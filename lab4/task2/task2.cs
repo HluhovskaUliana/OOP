@@ -43,10 +43,10 @@ class PriceCalculator
     {
         return season switch
         {
-            Season.Summer => 1.20,
-            Season.Winter => 0.80,
-            Season.Spring => 1.10,
-            Season.Autumn => 0.90,
+            Season.Summer => 4.0,
+            Season.Winter => 3.0,
+            Season.Spring => 2.0,
+            Season.Autumn => 1.0,
             _ => 1.0
         };
     }
@@ -79,5 +79,7 @@ class task2
         double totalPrice = calculator.CalculateTotalPrice();
 
         Console.WriteLine($"The total price is: {totalPrice}");
+
+        Console.ReadKey();
     }
 }
