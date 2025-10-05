@@ -67,6 +67,8 @@ class task4
         PrintCategory("Gold", selected);
         PrintCategory("Gem", selected);
         PrintCategory("Cash", selected);
+        
+        Console.ReadKey();
     }
 
     static string GetCategory(string name)
