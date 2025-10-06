@@ -95,15 +95,15 @@ class Worker : Human
         {
             if (value < 1 || value > 12)
                 throw new ArgumentException("Expected value mismatch! Argument: workHoursPerDay!");
+            workHoursPerDay = value;
         }
     }
     
-    public decimal SalaryPerHour => WeekSalary / (WorkHoursPerDay * 7);
+    public decimal SalaryPerHour => WeekSalary / (WorkHoursPerDay * 5);
 
     public override string ToString()
     {
-        return $"First Name: {{FirstName}}\\nLast Name: {{LastName}}\\n" +
-               $"Week Salary: {{WeekSalary:F2}}\\nHours per day: {{WorkHoursPerDay:F2}}\\nSalary per hour: {{SalaryPerHour:F2}}";
+        return $"First Name: {FirstName}\nLast Name: {LastName}\nWeek Salary: {WeekSalary:F2}\nHours per day: {WorkHoursPerDay:F2}\nSalary per hour: {SalaryPerHour:F2}";
     }
 }
 
