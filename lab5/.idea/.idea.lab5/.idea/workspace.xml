@@ -4,16 +4,63 @@
     <projectFile>task1/task1.csproj</projectFile>
     <projectFile>task2/task2.csproj</projectFile>
     <projectFile>task3/task3.csproj</projectFile>
-    <projectFile>task4/task4.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc322d2d-116d-44d7-a9d7-0d3b7b11d481" name="Changes" comment="">
+    <list default="true" id="b4142065-a7d5-472c-b642-654a817eb8d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab5/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/AnimalFarm.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/Shopping.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/PizzaCalories.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab3/lab3.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/lab3.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.lab5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lab5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6.sln" beforeDir="false" afterPath="$PROJECT_DIR$/lab6.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lab6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lab6/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lab6/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lab5/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lab6/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lab5/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lab6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lab5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/BookShop.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/bin/Debug/net9.0/task1.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/bin/Debug/net9.0/task1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/bin/Debug/net9.0/task1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/bin/Debug/net9.0/task1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/bin/Debug/net9.0/task1.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/obj/Debug/net9.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/obj/Debug/net9.0/ref/task1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/obj/Debug/net9.0/refint/task1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/obj/Debug/net9.0/task1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/task1/obj/Debug/net9.0/task1.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/obj/Debug/net9.0/task1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/task1/obj/Debug/net9.0/task1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/obj/Debug/net9.0/task1.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/obj/Debug/net9.0/task1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/obj/Debug/net9.0/task1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/obj/Debug/net9.0/task1.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/obj/Debug/net9.0/task1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/obj/Debug/net9.0/task1.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/task1/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/Manking.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/bin/Debug/net9.0/task2.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/bin/Debug/net9.0/task2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/bin/Debug/net9.0/task2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/bin/Debug/net9.0/task2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/bin/Debug/net9.0/task2.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/obj/Debug/net9.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/obj/Debug/net9.0/ref/task2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/obj/Debug/net9.0/refint/task2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/obj/Debug/net9.0/task2.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/task2/obj/Debug/net9.0/task2.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/obj/Debug/net9.0/task2.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/task2/obj/Debug/net9.0/task2.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/obj/Debug/net9.0/task2.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/obj/Debug/net9.0/task2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/obj/Debug/net9.0/task2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/obj/Debug/net9.0/task2.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/obj/Debug/net9.0/task2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/obj/Debug/net9.0/task2.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/task2/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/RadioBase.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/task3/bin/Debug/net9.0/task3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/task3/bin/Debug/net9.0/task3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task3/bin/Debug/net9.0/task3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/task3/bin/Debug/net9.0/task3.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task3/bin/Debug/net9.0/task3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/task3/bin/Debug/net9.0/task3.pdb" afterDir="false" />
@@ -22,9 +69,30 @@
       <change beforePath="$PROJECT_DIR$/task3/obj/Debug/net9.0/refint/task3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/task3/obj/Debug/net9.0/refint/task3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task3/obj/Debug/net9.0/task3.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/task3/obj/Debug/net9.0/task3.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task3/obj/Debug/net9.0/task3.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/task3/obj/Debug/net9.0/task3.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/obj/Debug/net9.0/task3.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/task3/obj/Debug/net9.0/task3.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task3/obj/Debug/net9.0/task3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/task3/obj/Debug/net9.0/task3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task3/obj/Debug/net9.0/task3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/task3/obj/Debug/net9.0/task3.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task3/obj/Debug/net9.0/task3.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/task3/obj/Debug/net9.0/task3.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/task3/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4/Mordor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4/obj/Debug/net9.0/task4.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4/obj/Debug/net9.0/task4.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4/obj/Debug/net9.0/task4.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4/obj/Debug/net9.0/task4.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4/obj/Debug/net9.0/task4.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4/obj/task4.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4/obj/task4.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4/obj/task4.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4/task4.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/lab7.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/lab7.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/task2/BirthdayCelebrations.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/task2/BirthdayCelebrations.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/task2/obj/Debug/net9.0/task2.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/task2/obj/Debug/net9.0/task2.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/task2/obj/Debug/net9.0/task2.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/task2/obj/Debug/net9.0/task2.AssemblyInfoInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,51 +102,49 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;HluhovskaUliana&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "HluhovskaUliana"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/HluhovskaUliana/OOP.git&quot;,
-    &quot;accountId&quot;: &quot;6fe32a47-7a2d-4804-9c92-b676b7c78245&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/HluhovskaUliana/OOP.git",
+    "accountId": "6fe32a47-7a2d-4804-9c92-b676b7c78245"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/task2/Manking.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/task3/RadioBase.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/task4/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/task2/Shopping.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/task3/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
-}</component>
-  <component name="ProjectId" id="33hNDAJBFS2hbBGwPHG109BEHrw" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="33yOa49163kx314QzpXLgKkN0iX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.task1.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.task2.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.task3.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.task1.executor": "Run",
+    ".NET Project.task2.executor": "Run",
+    ".NET Project.task3.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected=".NET Project.task4">
+}]]></component>
+  <component name="RunManager" selected=".NET Project.task3">
     <configuration name="task1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/task1/bin/Debug/net9.0/task1.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -148,81 +214,29 @@
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="task4" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/task4/bin/Debug/net9.0/task4.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task4/bin/Debug/net9.0" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="1" />
-      <option name="ENV_FILE_PATHS" value="" />
-      <option name="REDIRECT_INPUT_PATH" value="" />
-      <option name="PTY_MODE" value="Auto" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/task4/task4.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="net9.0" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue=".NET Project.task4" />
       <item itemvalue=".NET Project.task3" />
-      <item itemvalue=".NET Project.task2" />
       <item itemvalue=".NET Project.task1" />
+      <item itemvalue=".NET Project.task2" />
     </list>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bc322d2d-116d-44d7-a9d7-0d3b7b11d481" name="Changes" comment="" />
-      <created>1759765222856</created>
+      <changelist id="b4142065-a7d5-472c-b642-654a817eb8d3" name="Changes" comment="" />
+      <created>1760285905296</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1759765222856</updated>
-      <workItem from="1759765224019" duration="24659000" />
+      <updated>1760285905296</updated>
+      <workItem from="1760285906385" duration="11551000" />
     </task>
-    <task id="LOCAL-00001" summary="1">
-      <option name="closed" value="true" />
-      <created>1759791348399</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1759791348399</updated>
-    </task>
-    <task id="LOCAL-00002" summary="1">
-      <option name="closed" value="true" />
-      <created>1759792223737</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1759792223737</updated>
-    </task>
-    <task id="LOCAL-00003" summary="1">
-      <option name="closed" value="true" />
-      <created>1759938762219</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1759938762219</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
