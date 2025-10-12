@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class BirthdayCelebrations
+class Program
 {
     static void Main()
     {
