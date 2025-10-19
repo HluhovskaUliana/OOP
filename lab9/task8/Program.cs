@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 
+
 public static class Sorter //task9
 {
     public static void Sort<T>(CustomList<T> list) where T : IComparable<T>
@@ -8,7 +9,7 @@ public static class Sorter //task9
         list.SortInternal();
     }
 }
-public class CustomList<T> : IEnumerable<T> where T : IComparable<T>
+public class CustomList<T> where T : IComparable<T>
 {
     private List<T> items = new List<T>();
     
