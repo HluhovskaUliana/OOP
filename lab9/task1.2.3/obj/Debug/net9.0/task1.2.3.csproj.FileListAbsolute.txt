@@ -1,0 +1,15 @@
+D:\Study\OOP\lab9\task1.2.3\obj\Debug\net9.0\task1.2.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\lab9\task1.2.3\obj\Debug\net9.0\task1.2.3.AssemblyInfoInputs.cache
+D:\Study\OOP\lab9\task1.2.3\obj\Debug\net9.0\task1.2.3.AssemblyInfo.cs
+D:\Study\OOP\lab9\task1.2.3\obj\Debug\net9.0\task1.2.3.csproj.CoreCompileInputs.cache
+D:\Study\OOP\lab9\task1.2.3\obj\Debug\net9.0\task1.2.3.sourcelink.json
+D:\Study\OOP\lab9\task1.2.3\bin\Debug\net9.0\task1.2.3.exe
+D:\Study\OOP\lab9\task1.2.3\bin\Debug\net9.0\task1.2.3.deps.json
+D:\Study\OOP\lab9\task1.2.3\bin\Debug\net9.0\task1.2.3.runtimeconfig.json
+D:\Study\OOP\lab9\task1.2.3\bin\Debug\net9.0\task1.2.3.dll
+D:\Study\OOP\lab9\task1.2.3\bin\Debug\net9.0\task1.2.3.pdb
+D:\Study\OOP\lab9\task1.2.3\obj\Debug\net9.0\task1.2.3.dll
+D:\Study\OOP\lab9\task1.2.3\obj\Debug\net9.0\refint\task1.2.3.dll
+D:\Study\OOP\lab9\task1.2.3\obj\Debug\net9.0\task1.2.3.pdb
+D:\Study\OOP\lab9\task1.2.3\obj\Debug\net9.0\task1.2.3.genruntimeconfig.cache
+D:\Study\OOP\lab9\task1.2.3\obj\Debug\net9.0\ref\task1.2.3.dll
