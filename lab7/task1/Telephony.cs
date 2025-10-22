@@ -58,6 +58,8 @@ namespace SmartphoneApp
             {
                 Console.WriteLine(phone.Browse(url));
             }
+            
+            Console.ReadKey();
         }
     }
 }
