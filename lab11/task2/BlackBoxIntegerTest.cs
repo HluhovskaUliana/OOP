@@ -7,7 +7,7 @@
     {
         public static void Main()
         {
-            Type type = typeof(BlackBoxIntegerTest);
+            Type type = typeof(BlackBoxInteger);
             
             ConstructorInfo ctor = type.GetConstructor(
                 BindingFlags.Instance | BindingFlags.NonPublic,
@@ -18,7 +18,7 @@
             string input;
             while ((input = Console.ReadLine()) != "END")
             {
-                string[] parts = input.Split('_');
+                string[] parts = input.Split(' ');
                 string methodName = parts[0];
                 int value = int.Parse(parts[1]);
                 
