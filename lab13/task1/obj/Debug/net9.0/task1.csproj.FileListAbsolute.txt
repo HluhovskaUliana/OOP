@@ -1,0 +1,15 @@
+D:\Study\OOP\lab13\task1\bin\Debug\net9.0\task1.exe
+D:\Study\OOP\lab13\task1\bin\Debug\net9.0\task1.deps.json
+D:\Study\OOP\lab13\task1\bin\Debug\net9.0\task1.runtimeconfig.json
+D:\Study\OOP\lab13\task1\bin\Debug\net9.0\task1.dll
+D:\Study\OOP\lab13\task1\bin\Debug\net9.0\task1.pdb
+D:\Study\OOP\lab13\task1\obj\Debug\net9.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\lab13\task1\obj\Debug\net9.0\task1.AssemblyInfoInputs.cache
+D:\Study\OOP\lab13\task1\obj\Debug\net9.0\task1.AssemblyInfo.cs
+D:\Study\OOP\lab13\task1\obj\Debug\net9.0\task1.csproj.CoreCompileInputs.cache
+D:\Study\OOP\lab13\task1\obj\Debug\net9.0\task1.sourcelink.json
+D:\Study\OOP\lab13\task1\obj\Debug\net9.0\task1.dll
+D:\Study\OOP\lab13\task1\obj\Debug\net9.0\refint\task1.dll
+D:\Study\OOP\lab13\task1\obj\Debug\net9.0\task1.pdb
+D:\Study\OOP\lab13\task1\obj\Debug\net9.0\task1.genruntimeconfig.cache
+D:\Study\OOP\lab13\task1\obj\Debug\net9.0\ref\task1.dll
