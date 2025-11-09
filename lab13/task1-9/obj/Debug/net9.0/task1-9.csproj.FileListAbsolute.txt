@@ -1,0 +1,15 @@
+D:\Study\OOP\lab13\task1-9\bin\Debug\net9.0\task1-9.exe
+D:\Study\OOP\lab13\task1-9\bin\Debug\net9.0\task1-9.deps.json
+D:\Study\OOP\lab13\task1-9\bin\Debug\net9.0\task1-9.runtimeconfig.json
+D:\Study\OOP\lab13\task1-9\bin\Debug\net9.0\task1-9.dll
+D:\Study\OOP\lab13\task1-9\bin\Debug\net9.0\task1-9.pdb
+D:\Study\OOP\lab13\task1-9\obj\Debug\net9.0\task1-9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\lab13\task1-9\obj\Debug\net9.0\task1-9.AssemblyInfoInputs.cache
+D:\Study\OOP\lab13\task1-9\obj\Debug\net9.0\task1-9.AssemblyInfo.cs
+D:\Study\OOP\lab13\task1-9\obj\Debug\net9.0\task1-9.csproj.CoreCompileInputs.cache
+D:\Study\OOP\lab13\task1-9\obj\Debug\net9.0\task1-9.sourcelink.json
+D:\Study\OOP\lab13\task1-9\obj\Debug\net9.0\task1-9.dll
+D:\Study\OOP\lab13\task1-9\obj\Debug\net9.0\refint\task1-9.dll
+D:\Study\OOP\lab13\task1-9\obj\Debug\net9.0\task1-9.pdb
+D:\Study\OOP\lab13\task1-9\obj\Debug\net9.0\task1-9.genruntimeconfig.cache
+D:\Study\OOP\lab13\task1-9\obj\Debug\net9.0\ref\task1-9.dll
