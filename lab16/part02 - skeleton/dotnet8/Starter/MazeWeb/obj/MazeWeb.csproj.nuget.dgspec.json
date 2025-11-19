@@ -1,0 +1,314 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeWeb\\MazeWeb.csproj": {}
+  },
+  "projects": {
+    "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\Algorithms\\Algorithms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\Algorithms\\Algorithms.csproj",
+        "projectName": "Algorithms",
+        "projectPath": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\Algorithms\\Algorithms.csproj",
+        "packagesPath": "C:\\Users\\Уляна\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\Algorithms\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Уляна\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeGrid\\MazeGrid.csproj": {
+                "projectPath": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeGrid\\MazeGrid.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeGeneration\\MazeGeneration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeGeneration\\MazeGeneration.csproj",
+        "projectName": "MazeGeneration",
+        "projectPath": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeGeneration\\MazeGeneration.csproj",
+        "packagesPath": "C:\\Users\\Уляна\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeGeneration\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Уляна\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\Algorithms\\Algorithms.csproj": {
+                "projectPath": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\Algorithms\\Algorithms.csproj"
+              },
+              "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeGrid\\MazeGrid.csproj": {
+                "projectPath": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeGrid\\MazeGrid.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeGrid\\MazeGrid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeGrid\\MazeGrid.csproj",
+        "projectName": "MazeGrid",
+        "projectPath": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeGrid\\MazeGrid.csproj",
+        "packagesPath": "C:\\Users\\Уляна\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeGrid\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Уляна\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "SixLabors.ImageSharp.Drawing": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeWeb\\MazeWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeWeb\\MazeWeb.csproj",
+        "projectName": "MazeWeb",
+        "projectPath": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeWeb\\MazeWeb.csproj",
+        "packagesPath": "C:\\Users\\Уляна\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Уляна\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\Algorithms\\Algorithms.csproj": {
+                "projectPath": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\Algorithms\\Algorithms.csproj"
+              },
+              "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeGeneration\\MazeGeneration.csproj": {
+                "projectPath": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeGeneration\\MazeGeneration.csproj"
+              },
+              "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeGrid\\MazeGrid.csproj": {
+                "projectPath": "D:\\Study\\OOP\\lab16\\part02 - skeleton\\dotnet8\\Starter\\MazeGrid\\MazeGrid.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
