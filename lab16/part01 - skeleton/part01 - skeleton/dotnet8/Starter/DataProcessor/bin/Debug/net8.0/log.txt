@@ -1,0 +1,25 @@
+==================
+2025-11-19T18:04:20: Wrong number of fields in record - INVALID RECORD FORMAT
+2025-11-19T18:04:20: Cannot parse Start Date field - 20,Check,Date,0/2//,9,{1} {0}
+2025-11-19T18:04:20: Wrong number of fields in record - BAD RECORD
+2025-11-19T18:04:20: Cannot parse Rating field - 21,Check,Rating,2014/05/03,a,
+==================
+2025-11-19T19:20:11: Wrong number of fields in record - INVALID RECORD FORMAT
+2025-11-19T19:20:11: Cannot parse Start Date field - 20,Check,Date,0/2//,9,{1} {0}
+2025-11-19T19:20:11: Wrong number of fields in record - BAD RECORD
+2025-11-19T19:20:11: Cannot parse Rating field - 21,Check,Rating,2014/05/03,a,
+==================
+2025-11-19T19:26:44: Wrong number of fields in record - INVALID RECORD FORMAT
+2025-11-19T19:26:44: Cannot parse Start Date field - 20,Check,Date,0/2//,9,{1} {0}
+2025-11-19T19:26:44: Wrong number of fields in record - BAD RECORD
+2025-11-19T19:26:44: Cannot parse Rating field - 21,Check,Rating,2014/05/03,a,
+==================
+2025-11-19T19:38:29: Wrong number of fields in record - INVALID RECORD FORMAT
+2025-11-19T19:38:29: Cannot parse Start Date field - 20,Check,Date,0/2//,9,{1} {0}
+2025-11-19T19:38:29: Wrong number of fields in record - BAD RECORD
+2025-11-19T19:38:29: Cannot parse Rating field - 21,Check,Rating,2014/05/03,a,
+==================
+2025-11-19T19:43:49: Wrong number of fields in record - INVALID RECORD FORMAT
+2025-11-19T19:43:49: Cannot parse Start Date field - 20,Check,Date,0/2//,9,{1} {0}
+2025-11-19T19:43:49: Wrong number of fields in record - BAD RECORD
+2025-11-19T19:43:49: Cannot parse Rating field - 21,Check,Rating,2014/05/03,a,
