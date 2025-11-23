@@ -1,0 +1,12 @@
+D:\Study\OOP\lab16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\bin\Debug\net8.0\TaskAwait.Shared.deps.json
+D:\Study\OOP\lab16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\bin\Debug\net8.0\TaskAwait.Shared.dll
+D:\Study\OOP\lab16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\bin\Debug\net8.0\TaskAwait.Shared.pdb
+D:\Study\OOP\lab16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\TaskAwait.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OOP\lab16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\TaskAwait.Shared.AssemblyInfoInputs.cache
+D:\Study\OOP\lab16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\TaskAwait.Shared.AssemblyInfo.cs
+D:\Study\OOP\lab16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\TaskAwait.Shared.csproj.CoreCompileInputs.cache
+D:\Study\OOP\lab16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\TaskAwait.Shared.sourcelink.json
+D:\Study\OOP\lab16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\TaskAwait.Shared.dll
+D:\Study\OOP\lab16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\refint\TaskAwait.Shared.dll
+D:\Study\OOP\lab16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\TaskAwait.Shared.pdb
+D:\Study\OOP\lab16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\ref\TaskAwait.Shared.dll

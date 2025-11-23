@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/VmXvAQcyYA=",
+  "success": true,
+  "projectFilePath": "D:\\Study\\OOP\\lab16\\part03 - skeleton\\dotnet8\\Starter\\Parallel.UI.Console\\Parallel.UI.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Уляна\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
